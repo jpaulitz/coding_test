@@ -1,6 +1,8 @@
 ---
 title: "Coding test"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 ```{bash}
 ```
