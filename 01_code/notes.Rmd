@@ -12,6 +12,6 @@ library(here)
 ```
 
 ```{r}
-
+plot(mtcars)
 ```
 
