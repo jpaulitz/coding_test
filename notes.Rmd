@@ -2,7 +2,16 @@
 title: "Coding test"
 output: html_notebook
 ---
+```{bash}
+```
+
+```{r loading packages for analysis}
+library(janitor)
+library(tidyverse)
+library(here)
+```
 
 ```{r}
-plot(cars)
+
 ```
+
